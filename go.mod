@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/aws/aws-sdk-go v1.40.9
-	github.com/beevik/etree v1.1.0
+	github.com/beevik/etree v1.3.0
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/hashicorp/aws-sdk-go-base v0.7.1
 	github.com/hashicorp/go-cleanhttp v0.5.2
